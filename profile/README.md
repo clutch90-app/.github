@@ -24,13 +24,13 @@ Clutch90 is free to play. There are no entry fees, no money or valuable prizes, 
 
 | Repository | What it is |
 | --- | --- |
-| [`web`](https://github.com/clutch90-app/web) | The game itself: Laravel + React (Inertia), web/PWA and API for the mobile app |
 | [`app`](https://github.com/clutch90-app/app) | Native iOS and Android app, built with Flutter |
-| `datacenter` | Football data collection, normalization and explained ratings |
-| [`docs`](https://github.com/clutch90-app/docs) | Architecture and shared project context |
 | [`assets`](https://github.com/clutch90-app/assets) | Logos and graphics |
+| [`datacenter`](https://github.com/clutch90-app/datacenter) | Football data collection, normalization and explained ratings |
+| [`docs`](https://github.com/clutch90-app/docs) | Architecture and shared project context |
 | [`media-kit`](https://github.com/clutch90-app/media-kit) | Press and partner materials |
 | [`utilities`](https://github.com/clutch90-app/utilities) | Development scripts and tools |
+| [`web`](https://github.com/clutch90-app/web) | The game itself: Laravel + React (Inertia), web/PWA and API for the mobile app |
 
 ## Stack
 
