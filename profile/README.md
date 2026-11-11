@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/clutch90-app/.github/main/profile/readme-banner.png" alt="Clutch90" width="800">
+</p>
+
 # Clutch90
 
 **Il calcio, solo quando conta.**
