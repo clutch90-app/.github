@@ -30,21 +30,6 @@ Every challenge picks a **type** (how many matches) and a **mode** (how the rost
 
 Clutch90 is free to play. There are no entry fees, no money or valuable prizes, no purchase that improves your score, and no bookmaker or gambling ads. Forfeits ("pegno") are free text only. Everything paid is cosmetic or informational.
 
-## Repositories
+## Play
 
-| Repository | What it is |
-| --- | --- |
-| [`app`](https://github.com/clutch90-app/app) | Native iOS and Android app, built with Flutter |
-| [`datacenter`](https://github.com/clutch90-app/datacenter) | Football data collection, normalization and explained ratings |
-| [`docs`](https://github.com/clutch90-app/docs) | Architecture and shared project context |
-| [`media-kit`](https://github.com/clutch90-app/media-kit) | Brand assets, press and partner materials |
-| [`utilities`](https://github.com/clutch90-app/utilities) | Development scripts and tools |
-| [`web`](https://github.com/clutch90-app/web) | The game itself: Laravel + React (Inertia), web/PWA and API for the mobile app |
-
-## Stack
-
-Laravel · React · Inertia · Tailwind · shadcn/ui · Flutter · Postgres · Reverb · Laravel Cloud
-
-## Where to start
-
-Read [`docs`](https://github.com/clutch90-app/docs): it holds the product rules, the architecture and the conventions every repository follows.
+[clutch90.app](https://clutch90.app)
