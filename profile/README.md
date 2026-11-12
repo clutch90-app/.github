@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/clutch90-app/.github/main/profile/readme-banner.png" alt="Clutch90" width="800">
+  <img src="https://raw.githubusercontent.com/clutch90-app/.github/main/profile/readme-banner.png?v=2" alt="Clutch90" width="800">
 </p>
 
 # Clutch90
